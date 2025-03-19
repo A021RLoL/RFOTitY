@@ -1,4 +1,3 @@
-# File-Name:       package_installer.R           
 # Date:            2012-02-10                         
 # Author:          Drew Conway (drew.conway@nyu.edu)
 # Purpose:         Install all of the packages needed for the Machine Learning for Hackers case studies
