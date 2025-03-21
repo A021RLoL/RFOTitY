@@ -1505,7 +1505,6 @@
 	* [Puppet](devops/puppet/README.md)
 * [大数据](big_data/README.md)
 	* [Hadoop](big_data/hadoop/README.md)
-		* [快速起步](big_data/hadoop/startup/README.md)
 			* [单机安装部署Hadoop](big_data/hadoop/startup/deploy_hadoop_single_node.md)
 		* [故障排查](big_data/hadoop/troubleshooting/README.md)
 			* [RHEL6环境下透明大页和Hadoop高CPU sys](big_data/hadoop/troubleshooting/rhel_6_transparent_huge_pages_hadoop_high_system_cpu.md)
