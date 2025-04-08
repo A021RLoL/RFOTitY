@@ -28,7 +28,6 @@ docker-compose.yml
 # Ignore IDE/editor specific files
 .vscode
 .idea
-*.iml
 *.sublime-project
 *.sublime-workspace
 
