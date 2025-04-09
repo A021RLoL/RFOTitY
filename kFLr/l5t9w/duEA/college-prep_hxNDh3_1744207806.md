@@ -13,7 +13,6 @@ Derived from the terms _Angles_ and _Saxons_, used to distinguish Germanic group
 - Churls (Serfs)
 - Thralls (Slaves)
 
-To memorize the class system, just remember this acronym:
 
 > Kangaroos eat from tall cocoa trees
 
