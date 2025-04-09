@@ -1,3 +1,2 @@
 [flake8]
-statistics
 extend-ignore=E501
