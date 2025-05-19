@@ -106,7 +106,6 @@ dotnet_diagnostic.SA1407.severity = suggestion # Arithmetic expressions should d
 dotnet_diagnostic.SA1501.severity = suggestion # Statement should not be on single line.
 dotnet_diagnostic.SA1512.severity = suggestion # Single-line comment should be followed by blank line.
 dotnet_diagnostic.SA1515.severity = suggestion # Single-line comment should be preceded by blank line.
-
 dotnet_diagnostic.SYSLIB1045.severity = warning # Use 'GeneratedRegexAttribute' to generate the regular expression implementation at compile-time
 
 dotnet_diagnostic.VSSpell001.severity = suggestion # Correct spelling. 
