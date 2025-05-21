@@ -12,7 +12,6 @@ indent_style = space
 
 # Project files
 [*.{csproj,props}]
-indent_style = space
 indent_size = 2
 
 # Roslyn Analyzers
