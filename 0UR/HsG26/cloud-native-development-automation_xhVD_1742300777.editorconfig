@@ -32,7 +32,6 @@ dotnet_diagnostic.CA1822.severity = warning # Member that does not access instan
 dotnet_diagnostic.CA1825.severity = warning # Avoid zero-length array allocations
 dotnet_diagnostic.CA2016.severity = warning # Forward the 'CancellationToken' parameter to methods
 dotnet_diagnostic.CA2211.severity = warning # Non-constant fields should not be visible
-dotnet_diagnostic.CA2231.severity = warning # Overload operator equals on overriding value type Equals
 dotnet_diagnostic.CA2254.severity = warning # Template should be a static expression
 
 dotnet_diagnostic.CA1860.severity = none    #  Prefer comparing 'Length' to 0 rather than using 'Any()'
