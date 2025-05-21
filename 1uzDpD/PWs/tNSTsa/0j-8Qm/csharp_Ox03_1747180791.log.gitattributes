@@ -4,7 +4,6 @@
 *.DOC diff=astextplain
 *.docx diff=astextplain
 *.DOCX diff=astextplain
-*.DOT diff=astextplain
 
 # Declare files that will always have CRLF line endings on checkout
 *.sln text eol=crlf
