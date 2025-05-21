@@ -75,7 +75,6 @@ dotnet_diagnostic.SA1214.severity = none # Sort readonly fields before non-reado
 dotnet_diagnostic.SA1302.severity = none # Interface names should start with an I.
 dotnet_diagnostic.SA1304.severity = none # None-private fields should begin with upper-case character.
 dotnet_diagnostic.SA1306.severity = none # Fields should begin with lower-case character.
-dotnet_diagnostic.SA1307.severity = none # Fields should begin with upper-case character.
 dotnet_diagnostic.SA1308.severity = none # Fields should begin with 'm_' prefix.
 dotnet_diagnostic.SA1309.severity = none # Fields should begin with underscore.
 dotnet_diagnostic.SA1310.severity = none # Fields should not contain underscores.
