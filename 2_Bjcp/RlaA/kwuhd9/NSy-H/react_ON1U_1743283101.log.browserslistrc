@@ -69,7 +69,6 @@ samsung 22
 # snapshot of `npx browserslist "maintained node versions"`
 # On update check all #stable-snapshot markers
 [node]
-node 14.0
 # same as `node`
 [coverage]
 node 14.0
