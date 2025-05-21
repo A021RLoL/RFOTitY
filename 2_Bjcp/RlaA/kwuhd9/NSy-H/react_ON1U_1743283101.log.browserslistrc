@@ -70,7 +70,6 @@ samsung 22
 # On update check all #stable-snapshot markers
 [node]
 node 14.0
-
 # same as `node`
 [coverage]
 node 14.0
