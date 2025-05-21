@@ -101,7 +101,6 @@ dotnet_diagnostic.SA1640.severity = none # The copyright tag should contain a no
 dotnet_diagnostic.SA1649.severity = none # File name should match first type name.
 
 dotnet_diagnostic.SA1401.severity = suggestion # Fields should be private.
-dotnet_diagnostic.SA1407.severity = suggestion # Arithmetic expressions should declare precedence.
 dotnet_diagnostic.SA1501.severity = suggestion # Statement should not be on single line.
 dotnet_diagnostic.SA1512.severity = suggestion # Single-line comment should be followed by blank line.
 dotnet_diagnostic.SA1515.severity = suggestion # Single-line comment should be preceded by blank line.
