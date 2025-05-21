@@ -1,5 +1,4 @@
 
-*.cs diff=csharp
 *.docx diff=astextplain
 *.DOCX diff=astextplain
 
