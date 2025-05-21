@@ -143,7 +143,6 @@ csharp_style_expression_bodied_local_functions = false:silent
 csharp_indent_labels = one_less_than_current
 
 [*.{cs,vb}]
-#### Naming styles ####
 
 # Naming rules
 
