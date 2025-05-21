@@ -12,7 +12,6 @@ node 14
 #
 # On update, sync references where "#stable-snapshot" is mentioned in the codebase.
 [stable]
-and_chr 122
 and_ff 123
 and_ff 122
 and_qq 14.9
