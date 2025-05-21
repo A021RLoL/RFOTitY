@@ -7,7 +7,6 @@
 *.DOCX diff=astextplain
 *.dot diff=astextplain
 *.DOT diff=astextplain
-*.pdf diff=astextplain
 *.RTF diff=astextplain
 
 # Declare files that will always have CRLF line endings on checkout
