@@ -64,7 +64,6 @@ dotnet_diagnostic.SA1101.severity = none # Prefix local calls with this.
 dotnet_diagnostic.SA1127.severity = none # Generic type constraints should be on their own line.
 dotnet_diagnostic.SA1128.severity = none # Constructor initializes should be on their own line.
 dotnet_diagnostic.SA1200.severity = none # using directive is placed outside of a namespace element.
-dotnet_diagnostic.SA1201.severity = none # Order of different members.
 dotnet_diagnostic.SA1202.severity = none # Sort members based on visibillity.
 dotnet_diagnostic.SA1203.severity = none # Constants before non-constants.
 dotnet_diagnostic.SA1204.severity = none # Sort members based on static/instance.
