@@ -20,7 +20,6 @@ resharper_csharp_place_attribute_on_same_line = false
 resharper_csharp_wrap_extends_list_style = chop_if_long
 
 vsspell_section_id = main
-vsspell_ignored_words_main = File:dictionary.dic
 dotnet_diagnostic.IDE1006.severity = none # IDE1006: Naming Styles
 
 dotnet_diagnostic.CA1069.severity = warning # Enums values should not be duplicated
