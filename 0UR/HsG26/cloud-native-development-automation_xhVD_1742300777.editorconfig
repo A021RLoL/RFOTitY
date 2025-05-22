@@ -38,7 +38,6 @@ dotnet_diagnostic.S100.severity  = none     # Properties should be named in Pasc
 dotnet_diagnostic.S101.severity  = none     # Types should be named in PascalCase
 dotnet_diagnostic.S3376.severity = none     # Attribute, EventArgs, and Exception type names should end with the type being extended
 
-dotnet_diagnostic.S107.severity  = warning  # Methods should not have too many parameters
 dotnet_diagnostic.S1144.severity = warning  # Unused private types or members should be removed
 dotnet_diagnostic.S1185.severity = warning  # Overriding members should do more than simply call the same member in the base class
 dotnet_diagnostic.S1479.severity = warning  # Consider reworking this 'switch' to reduce the number of 'case's to at most 30
