@@ -8,7 +8,6 @@ insert_final_newline = true
 # Code files
 [*.{cs,json,cshtml,ts}]
 indent_style = space
-
 # Project files
 [*.{csproj,props}]
 indent_size = 2
