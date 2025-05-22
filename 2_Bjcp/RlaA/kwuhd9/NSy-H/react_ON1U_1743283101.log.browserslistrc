@@ -60,7 +60,6 @@ samsung 22
 [coverage]
 
 # same as `node`
-[development]
 node 14.0
 
 # same as `node`
