@@ -1,5 +1,4 @@
 [modern]
-last 1 edge version
 
 # Default/Fallback
 # `npx browserslist --mobile-to-desktop "> 0.5%, last 2 versions, Firefox ESR, not dead, safari >= 15.4, iOS >= 15.4"` when the last major is released.
