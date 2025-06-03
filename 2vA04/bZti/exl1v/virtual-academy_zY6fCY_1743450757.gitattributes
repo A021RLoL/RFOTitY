@@ -16,5 +16,4 @@
 *.dot  diff=astextplain
 *.DOT  diff=astextplain
 *.pdf  diff=astextplain
-*.rtf	 diff=astextplain
 *.RTF	 diff=astextplain
