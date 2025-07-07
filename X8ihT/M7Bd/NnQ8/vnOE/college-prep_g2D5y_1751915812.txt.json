@@ -1,0 +1,25 @@
+{
+  "name": "attendance",
+  "version": "0.4.2",
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "dev": "sst dev",
+    "build": "sst build",
+    "deploy": "sst deploy",
+    "remove": "sst remove",
+    "console": "sst console",
+    "typecheck": "tsc --noEmit"
+  },
+  "devDependencies": {
+    "@tsconfig/node16": "^16.1.0",
+    "aws-cdk-lib": "2.110.1",
+    "constructs": "10.3.0",
+    "sst": "2.39.7",
+    "typescript": "^5.1.6"
+  },
+  "workspaces": [
+    "packages/*"
+  ],
+  "packageManager": "pnpm@8.7.6+sha512.649fcba43cbe20662908f628d8835f9f0d8ca2950e4c74371dc9e16e24aa54bb55e6b4e6b2b6c51dee22df92132e9720bc85a9b566f351367c79f0d85d6a457b"
+}
